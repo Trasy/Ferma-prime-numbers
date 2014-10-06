@@ -1,0 +1,12 @@
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\ConsoleApplication12\ConsoleApplication12\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\ConsoleApplication12\ConsoleApplication12\obj\x86\Debug\ConsoleApplication12.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\ConsoleApplication12\ConsoleApplication12\obj\x86\Debug\ConsoleApplication12.pdb
+C:\Users\Дмитрий\Desktop\ConsoleApplication12\ConsoleApplication12\obj\x86\Debug\ConsoleApplication12.exe
+C:\Users\Дмитрий\Desktop\ConsoleApplication12\ConsoleApplication12\obj\x86\Debug\ConsoleApplication12.pdb
+C:\Users\Дмитрий\Desktop\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+C:\Users\Дмитрий\Desktop\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb
+C:\Users\Дмитрий\Desktop\ConsoleApplication12\ConsoleApplication12\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Дима\ВШЭ\Дискра\ConsoleApplication12\ConsoleApplication12\obj\x86\Debug\ConsoleApplication12.exe
+E:\Дима\ВШЭ\Дискра\ConsoleApplication12\ConsoleApplication12\obj\x86\Debug\ConsoleApplication12.pdb
